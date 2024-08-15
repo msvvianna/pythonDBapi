@@ -1,4 +1,4 @@
-## 14/08/2024 – REVISÃO PYTHON DB API – DAY 1
+## 15/08/2024 – REVISÃO PYTHON DB API – DAY 1
 
 ### 5504. APRESENTAÇÃO
 
@@ -37,7 +37,7 @@ print("Conexão realizada com sucesso!")
 
 ```
 
-## 15/08/2024 – REVISÃO PYTHON DB API – DAY 2
+## 16/08/2024 – REVISÃO PYTHON DB API – DAY 2
 
 ### 5506. ABRINDO E FECHANDO CONEXÕES
 
